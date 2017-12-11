@@ -13,10 +13,10 @@ Welcome to [Kotlin](https://kotlinlang.org/)! Some handy links:
 
  * [Kotlin Site](https://kotlinlang.org/)
  * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
- * [Try Kotlin](https://try.kotlinlang.org/)
+ * [Try Kotlin on Browser](https://try.kotlinlang.org/)
  * [Kotlin Standard Library](https://kotlinlang.org/api/latest/jvm/stdlib/index.html)
  * [Issue Tracker](https://youtrack.jetbrains.com/issues/KT)
- * [Forum](https://discuss.kotlinlang.org/)
+ * [Kotlin Forum](https://discuss.kotlinlang.org/)
  * [Kotlin Blog](https://blog.jetbrains.com/kotlin/)
  * [Follow Kotlin on Twitter](https://twitter.com/kotlin)
  * [Public Slack channel](http://slack.kotlinlang.org/)
