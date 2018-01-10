@@ -1,10 +1,12 @@
 # Koltin-Useful-Links
-### Contact - Let's connect to each other
+### Contact - Let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
 - [Facebook](https://www.facebook.com/freeankit)
 - [Slack](https://ankitdroid.slack.com)
+- [Stackoverflow](https://stackoverflow.com/users/3282461/android)
+- [Android App](https://play.google.com/store/apps/details?id=com.freeankit.ankitprofile)
 
 
 [![official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
@@ -156,7 +158,7 @@ This will avoid your local repo having too many merge commits
 which will help keep your pull request simple and easy to apply.
 
 
-### Contact - Let's connect to each other
+### Contact - Let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
